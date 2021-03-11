@@ -4,7 +4,7 @@
 
 I'm Quentin Fan-Chiang, a student in the MaCS program at William Lyon Mackenzie C.I. Many of my programming projects can be found here under this profile. I am interested in computer science, cybersecurity, music, and 3D printing.
 
-My portfolio website can be found at [https://quentinfanchiang.dev](https://quentinfanchiang.dev)
+My website can be found at [https://quentinfanchiang.dev](https://quentinfanchiang.dev)
 
 ### Tools and Languages
 
